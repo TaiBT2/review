@@ -1,0 +1,2 @@
+Public Url to GitHub repository [URL01]: https://github.com/TaiBT2/cdond-c3-projectstarter
+Public URL for your S3 Bucket [URL02]: http://udapeople-dc2adf6.s3-website-us-east-1.amazonaws.com/#/employees
